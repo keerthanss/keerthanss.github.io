@@ -3,6 +3,7 @@ layout: post
 comments: true
 title:  "Moving away from Gradient Descent"
 date:   2018-10-25
+category: "technical"
 ---
 
 <p class="intro"><span class="dropcap">T</span>raining a neural network is arguably the most complex procedure in the entire pipeline of solving a machine learning problem. It is also the most important part. Modern networks need several GPUs and days or even weeks to train. It is crucial then, to use the right algorithm.</p>

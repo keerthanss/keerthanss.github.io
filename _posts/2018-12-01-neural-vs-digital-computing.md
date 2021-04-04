@@ -3,6 +3,7 @@ layout: post
 comments: true
 title:  "Neural vs Digital computing"
 date:   2018-12-01
+category: "technical"
 ---
 
 <p class="intro"><span class="dropcap">T</span>here have been many claims that the artificial neural network emulates the processes within our human body, and that explains the vast swathes of success it enjoys. There's even hype that one day they would become more intelligent than us, an idea explored aplenty in science fiction. However, the truth is that ANNs were only <i>inspired</i> by the human neural circuit, and are not representative of the inner workings of our nervous system.</p>

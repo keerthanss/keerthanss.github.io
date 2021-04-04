@@ -23,7 +23,7 @@ author: Keerthan Shagrithaya
 email: keerthanss@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! Welcome to my blog.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "keerthanss.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  keerthanss
@@ -38,7 +38,7 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: false # show blog description in home page
+  show_description: true # show blog description in home page
 
 plugins:
   - jekyll-feed

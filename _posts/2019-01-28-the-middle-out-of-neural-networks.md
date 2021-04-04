@@ -3,6 +3,7 @@ layout: post
 comments: true
 title:  "The Middle-Out of Neural Networks"
 date:   2019-01-28
+category: "technical"
 ---
 
 <p class="intro"><span class="dropcap">D</span>eep learning owes in part its resurgence to the advances made in computing hardware. Along with large swathes of data, deep learning research boosted immensely in recent years. However, the field has been rapacious in its consumption of resources. Parallely, recent years has also seen rapid advancements in mobile phone technology and IoT. These devices stand to benefit highly from deep learning, however their memory and compute resources are too constrained for the same. Thus, there's been active research on model compression. The idea is to train on a system with high resources, then compress and deploy smaller equivalent models that can run on resource constrained devices. Knowledge distillation is an important frontier in this space.</p>
