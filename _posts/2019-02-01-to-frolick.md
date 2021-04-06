@@ -10,7 +10,7 @@ I recently learnt that one of the persons very close to me wanted to learn the p
 
 In all of my compositions so far, this feels most like a "song" with a proper repeating melody forming the "chorus". The repetitions also allowed for small embellishments here and there, that I hope add to the flavor of it. Midway, the song changes style and adopts an almost percussive rhythm, a new personal experiment in exploring the variety of ways that a piano can be played.
 
-The song is composed in E major. Harmonically it mostly follows the standard route of IV-V-vi-I, with the exception of an occasional usage of Isus4. I found this befitting the emotion. Rather than playing with the harmony, this time I was happier with the way the bass (almost alto really) accompaniment plays a more "active" role, especially in the first part, in setting the tone of the song, even while being constrained to said chords. It moves with the melody's rhythm without stealing the spotlight from it.
+The song is composed in E major. Harmonically it mostly follows the standard route of IV-V-vi-I, with the exception of an occasional usage of Isus4. I found this befitting the emotion. Rather than playing with the harmony, this time I was happier with the way the bass accompaniment plays a more "active" role, especially in the first part, in setting the tone of the song, even while being constrained to said chords. It moves with the melody's rhythm without stealing the spotlight from it.
 
 Hope you enjoy!
 
