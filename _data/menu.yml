@@ -26,6 +26,9 @@ entries:
   - title: rss
     url: feed.xml
 
+  - title: about me
+    url: about
+
   # - title: another list
   #   entries:
   #     - title: with subitems
